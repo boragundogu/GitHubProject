@@ -1,0 +1,1 @@
+test3 dosyamız oluşturuldu ve gerekli bilgiler aktarıldı.
